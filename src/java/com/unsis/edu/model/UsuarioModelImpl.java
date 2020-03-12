@@ -11,10 +11,8 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-/**
- *
- * @author labtw04
- */
+ // comentario de prueba
+
 public class UsuarioModelImpl implements IUsuarioModel{
     private SessionFactory sf = null;
     private Session s = null;
